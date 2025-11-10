@@ -1,0 +1,26 @@
+#EXTM3U
+
+# -------------------- قنوات فلسطينية --------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Palestine_TV_Logo.png" group-title="Palestine", Palestine TV HD
+https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.com/nablus.png" group-title="Palestine", Nablus Mix
+https://streaming.zaytonatube.com:8081/NablusMix3/NablusMix3/tracks-v1a1/mono.m3u8
+
+# -------------------- قنوات أخبار --------------------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Aljazeera_logo.png" group-title="News", Al Jazeera Arabic
+https://live-hls-web-aja-gcp.thehlive.com/AJA/04.m3u8
+
+# -------------------- أفلام --------------------
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600/abcd123.jpg" group-title="Movies", Avatar (2009)
+https://example.com/movies/avatar.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600/efgh123.jpg" group-title="Movies", Fast & Furious 7
+https://example.com/movies/fast7.m3u8
+
+# -------------------- مسلسلات --------------------
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600/moneyheist.jpg" group-title="Series", Money Heist S01E01
+https://example.com/series/moneyheist/s01e01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600/moneyheist.jpg" group-title="Series", Money Heist S01E02
+https://example.com/series/moneyheist/s01e02.mp4
